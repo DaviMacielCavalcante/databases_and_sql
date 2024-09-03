@@ -1,0 +1,5 @@
+site_name: Assim falou os dados
+nav:
+  - Home: index.md
+  - SQL: sql.md
+theme: dracula
